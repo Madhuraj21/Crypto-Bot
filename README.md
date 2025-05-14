@@ -18,8 +18,7 @@ A robust, menu-driven Python trading bot for Binance USDT-M Futures Testnet. Sup
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Madhuraj21/Crypto-Bot.git
 ```
 
 ### 2. Create and Activate a Virtual Environment
